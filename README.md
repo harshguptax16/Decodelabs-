@@ -11,8 +11,7 @@ Designed a simple and interactive user interface.
 Built using Pandas, Numpy, Matplotlib and Scikit Learn, 
 Build, train, test and validate a basic classification model that can accurately categorize new data based on patterns learned from a small dataset, 
 Supervised learning classification pipeline using the classic Iris dataset, 
-Learns patterns directly from data using the K-Nearest Neighbors(KNN) algorithm and predicts the species of a flower based on its measurements, 
-Evaluated model performance using classification metrics.
+Learns patterns directly from data using the K-Nearest Neighbors(KNN) algorithm and predicts the species of a flower based on its measurements.
 # 📅 Week 3 – AI Movie Recommendation System
 Developed an AI-based Movie Recommendation System, 
 Built using Python and Pandas, 
