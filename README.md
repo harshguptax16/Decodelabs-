@@ -7,11 +7,11 @@ Built using Python and Streamlit,
 Developed a rule-based chatbot with predefined responses, 
 Implemented conditional logic for user interaction, 
 Designed a simple and interactive user interface.
-# 📅 Week 2 – Credit Card Fraud Detection
-Built a Machine Learning classification model, 
-Used a Kaggle Credit Card Fraud Detection dataset, 
-Performed data preprocessing and feature analysis, 
-Trained a Decision Tree Classifier, 
+# 📅 Week 2 – Data Classification using AI
+Built using Pandas, Numpy, Matplotlib and Scikit Learn, 
+Build, train, test and validate a basic classification model that can accurately categorize new data based on patterns learned from a small dataset, 
+Supervised learning classification pipeline using the classic Iris dataset, 
+Learns patterns directly from data using the K-Nearest Neighbors(KNN) algorithm and predicts the species of a flower based on its measurements, 
 Evaluated model performance using classification metrics.
 # 📅 Week 3 – AI Movie Recommendation System
 Developed an AI-based Movie Recommendation System, 
