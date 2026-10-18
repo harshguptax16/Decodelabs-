@@ -1,7 +1,7 @@
 # Decodelabs Internship-
 ## This repository contains the projects I completed during my AI Internship at DecodeLabs. These projects focus on applying Artificial Intelligence and Machine Learning concepts through hands-on implementation using Python and various AI libraries.
 
-## Projects
+# Projects
 ## 📅 Week 1 – Rule-Based AI Chatbot
 - Built using Python and Streamlit, 
 - Developed a rule-based chatbot with predefined responses, 
